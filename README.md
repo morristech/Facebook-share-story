@@ -14,3 +14,6 @@ In the other case you will see following stacktrace
     10-25 21:58:06.049 6391-6391/com.example.sashatinkoff.fbshare W/System.err:     at com.facebook.internal.CallbackManagerImpl.onActivityResult(CallbackManagerImpl.java:82)
     10-25 21:58:06.049 6391-6391/com.example.sashatinkoff.fbshare W/System.err:     at com.example.sashatinkoff.fbshare.FacebookSDK4.onResult(FacebookSDK4.java:122)
     10-25 21:58:06.049 6391-6391/com.example.sashatinkoff.fbshare W/System.err:     at com.example.sashatinkoff.fbshare.MainActivity.onActivityResult(MainActivity.java:59)
+
+
+(Facebook can review your app up to 5 business days, so be patient)
